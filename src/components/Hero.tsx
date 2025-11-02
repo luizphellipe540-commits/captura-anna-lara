@@ -16,9 +16,9 @@ export const Hero = ({ onCtaClick }: HeroProps) => {
       />
 
       <div className="relative z-10 max-w-4xl mx-auto text-center space-y-8 animate-fade-in">
-        <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold text-white leading-tight text-balance drop-shadow-lg">
+        <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold text-white leading-tight text-balance drop-shadow-lg">
           Do absoluto zero a especialista em estrias:<br />
-          <span className="text-[#B8860B]">aprenda a faturar R$500 por sessão</span>
+          <span className="text-[#B8860B]">aprenda a faturar<br></br>R$500 por sessão</span>
         </h1>
 
         <p className="text-lg md:text-xl lg:text-2xl text-white max-w-3xl mx-auto text-balance drop-shadow-md">
